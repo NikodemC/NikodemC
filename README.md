@@ -1,9 +1,9 @@
 ### Hello World 👋
 I'm Warsaw based full-stack developer and yacht skipper with true passion for both programming and sailing.
 
-- 👨‍💻 Work on frontend and backend projects using .NET, Angular na Blazor
-- 🌱 Learn design patterns and programming best practices
-- ⛵ Sail and travel the world
+- 👨‍💻 Working on frontend and backend projects using .NET, Angular na Blazor
+- 🌱 Learning design patterns and programming best practices
+- ⛵ Sailing and traveling the world
 
 
 ### Connect with me
